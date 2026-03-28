@@ -2,6 +2,7 @@
 
 Welcome to **Pizza Pie**, a modern and responsive website for a pizza restaurant. This project provides a user-friendly interface to explore the menu, learn about the services, and contact the restaurant.
 
+web page link: https://mhdnazrul.github.io/pizza-pie/
 ## 🖼️ Screenshot
 ![Pizza Pie Website](https://github.com/user-attachments/assets/ff122b4e-05fb-4db6-bf6a-15a665db6b69)
 
